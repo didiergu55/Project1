@@ -29,3 +29,6 @@ def guess_number():
 
 # Запуск игры
 guess_number()
+
+
+123123
